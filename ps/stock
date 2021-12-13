@@ -1,0 +1,351 @@
+%!PS-Adobe-1.0
+/mv {moveto} def
+/rmv {rmoveto} def
+/ls {lineto stroke} def
+/lt {lineto} def
+/np {newpath} def
+/cp {currentpoint} def
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 0.0000 mv
+3.7500 4.6585 lt
+3.0060 4.6585 lt
+3.7500 7.9860 lt
+5.2381 1.3310 lt
+7.5000 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.3135 -0.3895 mv 4.0635 5.0480 ls
+np 4.2500 4.6585 mv 2.5060 4.6585 ls
+np 2.8968 4.1705 mv 3.8591 8.4739 ls
+np 3.6409 8.4739 mv 5.3472 0.8430 ls
+np 4.8072 1.5846 mv 7.9309 -0.2536 ls
+np 8.0000 0.0000 mv -0.5000 0.0000 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+3.4640 2.2292 mv (A) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+1.7750 2.2292 mv (C) show
+3.2780 4.5585 mv (G) show
+3.2780 6.2222 mv (E) show
+4.3940 4.5585 mv (F) show
+6.2690 0.5655 mv (D) show
+3.6500 -0.1000 mv (B) show
+.5 9.8 mv 0 setgray
+cp (face A) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face B =  53.1    edge length = 7.500")
+show mv 0 -0.2 rmv
+cp ( angle with face C =  40.2    edge length = 5.980")
+show mv 0 -0.2 rmv
+cp ( angle with face D =  97.7    edge length = 2.624")
+show mv 0 -0.2 rmv
+cp ( angle with face E =  83.8    edge length = 3.410")
+show mv 0 -0.2 rmv
+cp ( angle with face F =  83.8    edge length = 6.819")
+show mv 0 -0.2 rmv
+cp ( angle with face G = 116.6    edge length = 0.744")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 0.0000 mv
+3.7500 4.6585 lt
+3.0060 4.6585 lt
+3.7500 7.9860 lt
+5.2381 1.3310 lt
+7.5000 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.3135 -0.3895 mv 4.0635 5.0480 ls
+np 4.2500 4.6585 mv 2.5060 4.6585 ls
+np 2.8968 4.1705 mv 3.8591 8.4739 ls
+np 3.6409 8.4739 mv 5.3472 0.8430 ls
+np 4.8072 1.5846 mv 7.9309 -0.2536 ls
+np 8.0000 0.0000 mv -0.5000 0.0000 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+3.4640 2.2292 mv (B) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+1.7750 2.2292 mv (D) show
+3.2780 4.5585 mv (G) show
+3.2780 6.2222 mv (F) show
+4.3940 4.5585 mv (E) show
+6.2690 0.5655 mv (C) show
+3.6500 -0.1000 mv (A) show
+.5 9.8 mv 0 setgray
+cp (face B) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A =  53.1    edge length = 7.500")
+show mv 0 -0.2 rmv
+cp ( angle with face C =  97.7    edge length = 2.624")
+show mv 0 -0.2 rmv
+cp ( angle with face D =  40.2    edge length = 5.980")
+show mv 0 -0.2 rmv
+cp ( angle with face E =  83.8    edge length = 6.819")
+show mv 0 -0.2 rmv
+cp ( angle with face F =  83.8    edge length = 3.410")
+show mv 0 -0.2 rmv
+cp ( angle with face G = 116.6    edge length = 0.744")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 5.8630 mv
+2.0203 4.1879 lt
+1.0733 2.0939 lt
+4.2300 2.0939 lt
+2.2308 0.0000 lt
+1.1785 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.3849 6.1822 mv 2.4052 3.8687 ls
+np 2.2263 4.6434 mv 0.8672 1.6384 ls
+np 0.5733 2.0939 mv 4.7300 2.0939 ls
+np 4.5753 2.4556 mv 1.8855 -0.3616 ls
+np 2.7308 0.0000 mv 0.6785 0.0000 ls
+np 1.2770 -0.4902 mv -0.0985 6.3532 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+2.0781 0.9470 mv (C) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+0.9102 4.9254 mv (B) show
+1.4468 3.0409 mv (E) show
+2.5517 1.9939 mv (D) show
+3.1304 0.9470 mv (F) show
+1.6046 -0.1000 mv (G) show
+0.4893 2.8315 mv (A) show
+.5 9.8 mv 0 setgray
+cp (face C) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A =  40.2    edge length = 5.980")
+show mv 0 -0.2 rmv
+cp ( angle with face B =  97.7    edge length = 2.624")
+show mv 0 -0.2 rmv
+cp ( angle with face D =  89.4    edge length = 3.157")
+show mv 0 -0.2 rmv
+cp ( angle with face E = 131.2    edge length = 2.298")
+show mv 0 -0.2 rmv
+cp ( angle with face F =  71.5    edge length = 2.895")
+show mv 0 -0.2 rmv
+cp ( angle with face G =  45.3    edge length = 1.052")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 5.8630 mv
+2.0203 4.1879 lt
+1.0733 2.0939 lt
+4.2300 2.0939 lt
+2.2308 0.0000 lt
+1.1785 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.3849 6.1822 mv 2.4052 3.8687 ls
+np 2.2263 4.6434 mv 0.8672 1.6384 ls
+np 0.5733 2.0939 mv 4.7300 2.0939 ls
+np 4.5753 2.4556 mv 1.8855 -0.3616 ls
+np 2.7308 0.0000 mv 0.6785 0.0000 ls
+np 1.2770 -0.4902 mv -0.0985 6.3532 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+2.0781 0.9470 mv (D) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+0.9102 4.9254 mv (A) show
+1.4468 3.0409 mv (F) show
+2.5517 1.9939 mv (C) show
+3.1304 0.9470 mv (E) show
+1.6046 -0.1000 mv (G) show
+0.4893 2.8315 mv (B) show
+.5 9.8 mv 0 setgray
+cp (face D) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A =  97.7    edge length = 2.624")
+show mv 0 -0.2 rmv
+cp ( angle with face B =  40.2    edge length = 5.980")
+show mv 0 -0.2 rmv
+cp ( angle with face C =  89.4    edge length = 3.157")
+show mv 0 -0.2 rmv
+cp ( angle with face E =  71.5    edge length = 2.895")
+show mv 0 -0.2 rmv
+cp ( angle with face F = 131.2    edge length = 2.298")
+show mv 0 -0.2 rmv
+cp ( angle with face G =  45.3    edge length = 1.052")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 0.0000 mv
+1.4881 3.0678 lt
+4.9107 3.0678 lt
+2.4554 4.6017 lt
+4.1667 6.1356 lt
+7.1429 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.2182 -0.4499 mv 1.7063 3.5177 ls
+np 0.9881 3.0678 mv 5.4107 3.0678 ls
+np 5.3348 2.8029 mv 2.0313 4.8666 ls
+np 2.0830 4.2680 mv 4.5390 6.4693 ls
+np 3.9484 6.5854 mv 7.3611 -0.4499 ls
+np 7.6429 0.0000 mv -0.5000 0.0000 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+3.2854 1.4339 mv (E) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+0.6440 1.4339 mv (A) show
+3.0994 2.9678 mv (G) show
+3.5830 3.7347 mv (D) show
+3.2110 5.2686 mv (C) show
+5.5548 2.9678 mv (B) show
+3.4714 -0.1000 mv (F) show
+.5 9.8 mv 0 setgray
+cp (face E) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A =  83.8    edge length = 3.410")
+show mv 0 -0.2 rmv
+cp ( angle with face B =  83.8    edge length = 6.819")
+show mv 0 -0.2 rmv
+cp ( angle with face C = 131.2    edge length = 2.298")
+show mv 0 -0.2 rmv
+cp ( angle with face D =  71.5    edge length = 2.895")
+show mv 0 -0.2 rmv
+cp ( angle with face F =  28.1    edge length = 7.143")
+show mv 0 -0.2 rmv
+cp ( angle with face G =  76.0    edge length = 3.423")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+0.0000 0.0000 mv
+1.4881 3.0678 lt
+4.9107 3.0678 lt
+2.4554 4.6017 lt
+4.1667 6.1356 lt
+7.1429 0.0000 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np -0.2182 -0.4499 mv 1.7063 3.5177 ls
+np 0.9881 3.0678 mv 5.4107 3.0678 ls
+np 5.3348 2.8029 mv 2.0313 4.8666 ls
+np 2.0830 4.2680 mv 4.5390 6.4693 ls
+np 3.9484 6.5854 mv 7.3611 -0.4499 ls
+np 7.6429 0.0000 mv -0.5000 0.0000 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+3.2854 1.4339 mv (F) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+0.6440 1.4339 mv (B) show
+3.0994 2.9678 mv (G) show
+3.5830 3.7347 mv (C) show
+3.2110 5.2686 mv (D) show
+5.5548 2.9678 mv (A) show
+3.4714 -0.1000 mv (E) show
+.5 9.8 mv 0 setgray
+cp (face F) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A =  83.8    edge length = 6.819")
+show mv 0 -0.2 rmv
+cp ( angle with face B =  83.8    edge length = 3.410")
+show mv 0 -0.2 rmv
+cp ( angle with face C =  71.5    edge length = 2.895")
+show mv 0 -0.2 rmv
+cp ( angle with face D = 131.2    edge length = 2.298")
+show mv 0 -0.2 rmv
+cp ( angle with face E =  28.1    edge length = 7.143")
+show mv 0 -0.2 rmv
+cp ( angle with face G =  76.0    edge length = 3.423")
+show mv 0 -0.2 rmv
+showpage
+72.19 72.32 scale   % inches on Apple 360 printer
+0.5 0.5 translate
+1 setlinejoin 1 setlinecap
+/Helvetica-Bold findfont .5 scalefont setfont
+np [] 0 setdash 1 300 div setlinewidth
+4.1667 1.4881 mv
+4.1667 0.7440 lt
+3.4226 0.0000 lt
+0.0000 0.0000 lt
+0.0000 0.7440 lt
+0.7440 1.4881 lt
+closepath .8 setgray fill
+0 setgray 1 300 div setlinewidth
+np 4.1667 1.9881 mv 4.1667 0.2440 ls
+np 4.5202 1.0976 mv 3.0691 -0.3536 ls
+np 3.9226 0.0000 mv -0.5000 0.0000 ls
+np 0.0000 -0.5000 mv 0.0000 1.2440 ls
+np -0.3536 0.3905 mv 1.0976 1.8416 ls
+np 0.2440 1.4881 mv 4.6667 1.4881 ls
+.9 setgray
+/Helvetica-Bold findfont 36 72 div scalefont setfont
+1.9833 0.6440 mv (G) show
+/Helvetica-Bold findfont 24 72 div scalefont setfont
+4.0667 1.0161 mv (A) show
+3.6946 0.2720 mv (C) show
+1.6113 -0.1000 mv (F) show
+-0.1000 0.2720 mv (B) show
+0.2720 1.0161 mv (D) show
+2.3554 1.3881 mv (E) show
+.5 9.8 mv 0 setgray
+cp (face G) show moveto 0 -.3 rmv
+/Helvetica findfont 12 72 div scalefont setfont
+cp (Szilassi polyhedron pattern) show mv 0 -.2 rmv
+cp (Tom Ace    crux@qnet.com) show mv 0 -.2 rmv
+cp (http://www.qnet.com/~crux/) show mv 0 -.2 rmv
+3.5 9.8 mv
+cp ( angle with face A = 116.6    edge length = 0.744")
+show mv 0 -0.2 rmv
+cp ( angle with face B = 116.6    edge length = 0.744")
+show mv 0 -0.2 rmv
+cp ( angle with face C =  45.3    edge length = 1.052")
+show mv 0 -0.2 rmv
+cp ( angle with face D =  45.3    edge length = 1.052")
+show mv 0 -0.2 rmv
+cp ( angle with face E =  76.0    edge length = 3.423")
+show mv 0 -0.2 rmv
+cp ( angle with face F =  76.0    edge length = 3.423")
+show mv 0 -0.2 rmv
+showpage
+
